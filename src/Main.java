@@ -12,6 +12,6 @@ public class Main {
 
         Triangle triangle = new Triangle(3, 6);
         double areaTriangle = triangle.calculateArea();
-        System.out.println("Area del triangolo: "  + areaTriangle);
+        System.out.println("Area del triangolo: " + areaTriangle);
     }
 }
